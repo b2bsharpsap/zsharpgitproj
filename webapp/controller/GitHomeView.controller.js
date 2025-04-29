@@ -6,7 +6,7 @@ function (Controller) {
 
     return Controller.extend("zsharpgitproj.controller.GitHomeView", {
         onInit: function () {
-            //Husna
+            //Version 1.00
 
         }
     });
