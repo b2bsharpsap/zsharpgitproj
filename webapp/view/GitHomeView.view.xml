@@ -1,0 +1,13 @@
+<mvc:View controllerName="zsharpgitproj.controller.GitHomeView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <VBox>
+                <Text text="Welcome to SHARP Project.....   "  ></Text>
+                <Text text="Version...   1.00"  ></Text>
+                <!--   Husna   -->
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>
